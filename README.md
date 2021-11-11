@@ -13,8 +13,8 @@ Javascript powered leads saver
 - Save the current tab link to follow up later. 
 
 ## Screen Shots
-![alt text](https://siasky.net/KAALDaQ6XQe5SOJf507SxjHG5wCkL1eaz29Cv5ZwwOJ2Ng)
-![alt text](https://siasky.net/MACeui9DRDUHVp0I83s3SimsRDqjtLsYNBJ_LNL_hEoCIg)
+- ![alt text](https://siasky.net/KAALDaQ6XQe5SOJf507SxjHG5wCkL1eaz29Cv5ZwwOJ2Ng)
+- ![alt text](https://siasky.net/MACeui9DRDUHVp0I83s3SimsRDqjtLsYNBJ_LNL_hEoCIg)
 
 ## Acknowledgement
  This is a heavily modified side project of Scrimba by me.  
@@ -49,9 +49,9 @@ Install the extension in unpacked mode.
 - Go to chrome://extensions/ in your chrome browser
 - Download/clone this repo
 - Click Load Unpacked from the top left of the screen in Chrome 
-![alt text](https://siasky.net/CACmzERGCbathLN2ZktJZ6PhrK9r97N8XAHk4RUOU_dm5A)
+- ![alt text](https://siasky.net/CACmzERGCbathLN2ZktJZ6PhrK9r97N8XAHk4RUOU_dm5A)
 - Browse the repo folder and click open 
-![alt text](https://siasky.net/CACDp_Z2NkePEj92HC34DWYoAjiuClluRd3L7SyI3C8iYQ)
+- ![alt text](https://siasky.net/CACDp_Z2NkePEj92HC34DWYoAjiuClluRd3L7SyI3C8iYQ)
 - Done . Now Click the puzzel icon in the top righ corner beside the address bar 
 - Select the extension Leads Saver with blueish logo
 - Enjoy !
