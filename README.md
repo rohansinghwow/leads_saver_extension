@@ -13,8 +13,8 @@ Javascript powered leads saver
 - Save the current tab link to follow up later. 
 
 ## Screen Shots
-[alt text](https://siasky.net/KAALDaQ6XQe5SOJf507SxjHG5wCkL1eaz29Cv5ZwwOJ2Ng)
-[alt text](https://siasky.net/MACeui9DRDUHVp0I83s3SimsRDqjtLsYNBJ_LNL_hEoCIg)
+![alt text](https://siasky.net/KAALDaQ6XQe5SOJf507SxjHG5wCkL1eaz29Cv5ZwwOJ2Ng)
+![alt text](https://siasky.net/MACeui9DRDUHVp0I83s3SimsRDqjtLsYNBJ_LNL_hEoCIg)
 
 ## Acknowledgement
  This is a heavily modified side project of Scrimba by me.  
