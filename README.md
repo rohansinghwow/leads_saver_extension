@@ -53,6 +53,7 @@ Install the extension in unpacked mode.
 - Browse the repo folder and click open 
 - ![alt text](https://siasky.net/CACDp_Z2NkePEj92HC34DWYoAjiuClluRd3L7SyI3C8iYQ)
 - Done . Now Click the puzzel icon in the top righ corner beside the address bar 
+- ![alt text](https://siasky.net/AAAiSgpXQQE6v246ZM7Ai4CPO5phYcvJc4x5--AJjhd9eQ)
 - Select the extension Leads Saver with blueish logo
 - Enjoy !
 
