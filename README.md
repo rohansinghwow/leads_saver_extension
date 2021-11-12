@@ -42,7 +42,7 @@ Leads Saver simple tech work properly:
 
 ## Installation
 
-Dillinger requires [Chrome](https://www.google.com/intl/en_in/chrome/) or [Chromium](https://www.chromium.org/).
+Leads Saver requires [Chrome](https://www.google.com/intl/en_in/chrome/) or [Chromium](https://www.chromium.org/).
 
 Install the extension in unpacked mode.
 
