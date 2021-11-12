@@ -4,7 +4,7 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 Leads Saver is a locally enabled,  offline-storage compatible,
 Javascript powered leads saver
